@@ -1,0 +1,4 @@
+﻿  CG_HW4_6.cpp
+C:\Users\User\source\repos\CG_HW4\CG_HW4_6\CG_HW4_6.cpp(23,18): warning C4101: 'sy' :참조되지 않은 지역 변수입니다.
+C:\Users\User\source\repos\CG_HW4\CG_HW4_6\CG_HW4_6.cpp(23,8): warning C4101: 'sx' :참조되지 않은 지역 변수입니다.
+  CG_HW4_6.vcxproj -> C:\Users\User\source\repos\CG_HW4\Debug\CG_HW4_6.exe

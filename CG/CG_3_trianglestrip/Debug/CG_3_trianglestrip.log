@@ -1,0 +1,3 @@
+﻿  CG_3_trianglestrip.cpp
+C:\Users\User\source\repos\CG\CG_3_trianglestrip\CG_3_trianglestrip.cpp(29,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  CG_3_trianglestrip.vcxproj -> C:\Users\User\source\repos\CG\Debug\CG_3_trianglestrip.exe
